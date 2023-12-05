@@ -1,7 +1,7 @@
 # MakingJam2023 : ⚗️마법학과 이화연의 재난🕯️
 *2023 Ewha MakingJam 인기상 수상 작품*
 
-![mainImg]("\mainImg.png")
+![mainImg]("./mainImg.png")
 
 * *Unity 2D*
 * *casual mobile game*
